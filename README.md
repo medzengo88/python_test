@@ -6,8 +6,8 @@ autotest
 Создаем в проекте директорию 'chromedriver' и копируем драйвер Chrome туда.
 Копируем в проект файл test.py.
 Запускаем в консоли файл test.py.
-Вводим стартовую ссылку https://ru.wikipedia.org/wiki/Samsung_Galaxy_S22
-Вводим конечную ссылку https://ru.wikipedia.org/wiki/Pixel_6
+Вводим стартовую ссылку https://ru.wikipedia.org/wiki/Samsung_Galaxy_S22.
+Вводим конечную ссылку https://ru.wikipedia.org/wiki/Pixel_6.
 Нажимем Enter.
 Запускается программа и подключается к https://ru.wikipedia.org/wiki/Samsung_Galaxy_S22.
 На этой странице находит ссылку https://ru.wikipedia.org/wiki/Android, сохраняет его и текст вокруг ссылки.
